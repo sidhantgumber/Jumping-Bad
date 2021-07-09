@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: bc07594488d574126a78542906a88782
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 268118902965851557
+    second: "a\u0302\x80\x94Pngtreea\u0302\x80\x94set of blue game buttons_6259710_0"
+  - first:
+      213: -8070296083814325450
+    second: "a\u0302\x80\x94Pngtreea\u0302\x80\x94set of blue game buttons_6259710_1"
+  - first:
+      213: -3858075352195513890
+    second: "a\u0302\x80\x94Pngtreea\u0302\x80\x94set of blue game buttons_6259710_2"
+  - first:
+      213: -2605146946631539898
+    second: "a\u0302\x80\x94Pngtreea\u0302\x80\x94set of blue game buttons_6259710_3"
+  - first:
+      213: -284544922599011238
+    second: "a\u0302\x80\x94Pngtreea\u0302\x80\x94set of blue game buttons_6259710_4"
+  - first:
+      213: -7459882982195283011
+    second: "a\u0302\x80\x94Pngtreea\u0302\x80\x94set of blue game buttons_6259710_5"
+  - first:
+      213: -2464938218948373049
+    second: "a\u0302\x80\x94Pngtreea\u0302\x80\x94set of blue game buttons_6259710_6"
+  - first:
+      213: -5163064504362236457
+    second: "a\u0302\x80\x94Pngtreea\u0302\x80\x94set of blue game buttons_6259710_7"
+  - first:
+      213: 2045755113431939609
+    second: "a\u0302\x80\x94Pngtreea\u0302\x80\x94set of blue game buttons_6259710_8"
+  - first:
+      213: -3264178641679224589
+    second: "a\u0302\x80\x94Pngtreea\u0302\x80\x94set of blue game buttons_6259710_9"
+  - first:
+      213: -5069855199809946283
+    second: "a\u0302\x80\x94Pngtreea\u0302\x80\x94set of blue game buttons_6259710_10"
+  - first:
+      213: -7413471027010629725
+    second: "a\u0302\x80\x94Pngtreea\u0302\x80\x94set of blue game buttons_6259710_11"
+  - first:
+      213: -7946886699797532512
+    second: "a\u0302\x80\x94Pngtreea\u0302\x80\x94set of blue game buttons_6259710_12"
+  - first:
+      213: -5692803558177734008
+    second: "a\u0302\x80\x94Pngtreea\u0302\x80\x94set of blue game buttons_6259710_13"
+  - first:
+      213: 3824847729147385995
+    second: "a\u0302\x80\x94Pngtreea\u0302\x80\x94set of blue game buttons_6259710_14"
+  - first:
+      213: 8550523166905357701
+    second: "a\u0302\x80\x94Pngtreea\u0302\x80\x94set of blue game buttons_6259710_15"
+  - first:
+      213: 8326067374673050188
+    second: "a\u0302\x80\x94Pngtreea\u0302\x80\x94set of blue game buttons_6259710_16"
+  - first:
+      213: 5070137592226391422
+    second: "a\u0302\x80\x94Pngtreea\u0302\x80\x94set of blue game buttons_6259710_17"
+  - first:
+      213: 2371250855266727476
+    second: "a\u0302\x80\x94Pngtreea\u0302\x80\x94set of blue game buttons_6259710_18"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94set of blue game buttons_6259710_0"
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1501
+        width: 1402
+        height: 898
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5d8d0c8bc88b300800000000000000
+      internalID: 268118902965851557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94set of blue game buttons_6259710_1"
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 2125
+        width: 304
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6336504587c800090800000000000000
+      internalID: -8070296083814325450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94set of blue game buttons_6259710_2"
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 2125
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed142bb78ec557ac0800000000000000
+      internalID: -3858075352195513890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94set of blue game buttons_6259710_3"
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 1795
+        width: 303
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643655a97a8a8dbd0800000000000000
+      internalID: -2605146946631539898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94set of blue game buttons_6259710_4"
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1795
+        width: 302
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c48d586e71d0cf0800000000000000
+      internalID: -284544922599011238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94set of blue game buttons_6259710_5"
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 1463
+        width: 303
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbb44ca3fb297890800000000000000
+      internalID: -7459882982195283011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94set of blue game buttons_6259710_6"
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1463
+        width: 302
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c55c4aefb7cacdd0800000000000000
+      internalID: -2464938218948373049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94set of blue game buttons_6259710_7"
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1098
+        width: 609
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d58f09303c1958b0800000000000000
+      internalID: -5163064504362236457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94set of blue game buttons_6259710_8"
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1098
+        width: 610
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91abc81df6bf36c10800000000000000
+      internalID: 2045755113431939609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94set of blue game buttons_6259710_9"
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 1098
+        width: 609
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0fa4bd1de43b2d0800000000000000
+      internalID: -3264178641679224589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94set of blue game buttons_6259710_10"
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 773
+        width: 609
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d39a89e8144a9b0800000000000000
+      internalID: -5069855199809946283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94set of blue game buttons_6259710_11"
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 773
+        width: 610
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af8162116f0e1990800000000000000
+      internalID: -7413471027010629725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94set of blue game buttons_6259710_12"
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 773
+        width: 609
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0ba44a6acf6b190800000000000000
+      internalID: -7946886699797532512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94set of blue game buttons_6259710_13"
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 456
+        width: 609
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8828cba53591ff0b0800000000000000
+      internalID: -5692803558177734008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94set of blue game buttons_6259710_14"
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 456
+        width: 610
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b881ac7aeb6941530800000000000000
+      internalID: 3824847729147385995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94set of blue game buttons_6259710_15"
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 456
+        width: 609
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5855427848f89a670800000000000000
+      internalID: 8550523166905357701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94set of blue game buttons_6259710_16"
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 131
+        width: 609
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a3b53f9222c8370800000000000000
+      internalID: 8326067374673050188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94set of blue game buttons_6259710_17"
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 131
+        width: 610
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e752203074fbc5640800000000000000
+      internalID: 5070137592226391422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94set of blue game buttons_6259710_18"
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 131
+        width: 609
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436b385e61068e020800000000000000
+      internalID: 2371250855266727476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
